@@ -1,6 +1,6 @@
-# projects
+# Projects
 
-Here are the projects that I created for either for school work or for leisure. The projects are:
+Here are some projects I developed, either as part of my academic work or for personal exploration:
 
 1. Option pricing estimate using Monte Carlo simulation method
 2. Corporate credit rating prediction using multi-class Support Vector Machines (SVM), Random Forest, and Neural Network
