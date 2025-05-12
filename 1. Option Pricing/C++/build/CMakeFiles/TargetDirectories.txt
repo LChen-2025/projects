@@ -1,0 +1,3 @@
+/Users/Liyuannnnn/Desktop/C++/XVA/build/CMakeFiles/MyApp.dir
+/Users/Liyuannnnn/Desktop/C++/XVA/build/CMakeFiles/edit_cache.dir
+/Users/Liyuannnnn/Desktop/C++/XVA/build/CMakeFiles/rebuild_cache.dir

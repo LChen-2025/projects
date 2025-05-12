@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/Liyuannnnn/Desktop/C++/XVA/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch x86_64 -o CMakeFiles/MyApp.dir/src/main.cpp.o -c /Users/Liyuannnnn/Desktop/C++/XVA/src/main.cpp",
+  "file": "/Users/Liyuannnnn/Desktop/C++/XVA/src/main.cpp",
+  "output": "CMakeFiles/MyApp.dir/src/main.cpp.o"
+}
+]
